@@ -1,0 +1,9 @@
+.encabezado {
+  background-color: #6f9e6d; /* Color de fondo del encabezado */
+  padding: 20px; /* Espaciado interno del encabezado */
+  text-align: center; /* Alineación del texto al centro */
+}
+
+.encabezado-titulo, .proyecto {
+  color: #040303; /* Color del texto */
+}

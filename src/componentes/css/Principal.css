@@ -1,0 +1,26 @@
+
+main {
+  max-width: 800px; /* Establece el ancho máximo del elemento main */
+  margin: 0 auto; /* Centra el elemento main horizontalmente */
+  padding: 10px; /* Agrega un relleno de 10px alrededor del elemento main */
+}
+
+.contenido-principal {
+  margin-bottom: 50px; /* Agrega un margen inferior de 50px al elemento con la clase contenido-principal */
+}
+
+h1, .titulo1 {
+  font-size: 2em; /* Establece el tamaño del encabezado h1 */
+  margin-bottom: 10px; /* Agrega un margen inferior de 10px al encabezado h1 */
+  color: black;
+}
+
+li {
+  margin-bottom: 10px; /* Agrega un margen inferior de 10px a los elementos de lista */
+}
+
+strong {
+  font-weight: bold; /* Establece el peso de la fuente en negrita para el texto en negrita */
+  color: #1900ff91; /* Define un color azul (#007bff) para el texto en negrita */
+}
+

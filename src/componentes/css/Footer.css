@@ -1,0 +1,11 @@
+.pie-de-pagina {
+  background-color: #333; /* Color de fondo del pie de página */
+  color: #fff; /* Color del texto del pie de página */
+  padding: 20px 0; /* Espaciado interno del pie de página */
+  text-align: center; /* Alineación del texto al centro */
+}
+
+.contenedor {
+  max-width: 1170px; /* Ancho máximo del contenedor */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+}

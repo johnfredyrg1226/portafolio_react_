@@ -1,0 +1,26 @@
+/* Establece el margen para los elementos con la clase .boton */
+.botones {
+  margin: 20px; /* Espacio entre los botones */
+}
+
+/* Establece el estilo específico para los botones dentro de los elementos con la clase .boton */
+.boton {
+  display: inline-block; /* Cambio para permitir que los botones se muestren correctamente */
+  text-decoration: none; /* Quita el subrayado del enlace */
+}
+
+.boton{
+  background-color: #e8ef11; /* Color de fondo verde */
+  border: none; /* Sin borde */
+  padding: 10px 20px; /* Espaciado interno */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cursor al pasar el ratón */
+  transition: background-color 0.3s ease; /* Transición suave */
+  font-size: 22px; /* Tamaño de fuente */
+  margin-right: 20px; /* Espaciado entre los botones */
+}
+
+/* Cambio de color al pasar el cursor sobre el botón */
+.boton:hover {
+  background-color: #cb1f31; /* Verde más oscuro al pasar el cursor */
+}

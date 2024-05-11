@@ -1,0 +1,90 @@
+/* Estilos para la tabla */
+table {
+  width: 100%; /* Ocupa todo el ancho disponible */
+  border-collapse: collapse; /* Fusiona los bordes de las celdas */
+  margin-top: 20px; /* Espacio superior */
+}
+
+/* Estilos para la leyenda de la tabla */
+caption {
+  font-weight: bold; /* Texto en negrita */
+  font-size: 1.2em; /* Tamaño de fuente */
+  margin-bottom: 10px; /* Espacio inferior */;
+  color: #f2317f;
+  
+
+}
+
+/* Estilos para las celdas del encabezado de la tabla */
+th {
+  background-color: #007bff; /* Color de fondo del encabezado */
+  color: black; /* Color del texto del encabezado */
+  padding: 10px; /* Espaciado interno */
+}
+
+/* Estilos para las celdas de la tabla */
+td {
+  border: 1px solid #ddd; /* Borde de 1px sólido */
+  padding: 10px; /* Espaciado interno */
+  color: #f6f6e9;
+}
+
+
+/* Estilos para el enlace de correo electrónico */
+a img {
+  vertical-align: middle; /* Alinea verticalmente la imagen con el texto */
+  margin-right: 5px; /* Espacio a la derecha de la imagen */
+}
+
+
+.tabla1{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; /* Fuente del texto */
+  background: #17223b; /* Color de fondo del cuerpo */
+  
+}
+.formulario1 {
+  width: 400px; /* Ancho del cuadro */
+  padding: 20px; /* Espacio alrededor del contenido del cuadro */
+  border: 1px solid #ccc; /* Borde del cuadro */
+  border-radius: 5px; /* Bordes redondeados */
+  margin: 0 auto; /* Centrar horizontalmente */
+  background-color: #2f38ee6b; /* Fondo del formulario */
+}
+
+.formulario {
+  margin-bottom: 15px; /* Espacio entre cada elemento del formulario */
+}
+
+
+
+.input {
+  width: 100%; /* Ancho completo */
+  padding: 8px; /* Espacio dentro del input */
+  border: 1px solid #ccc; /* Borde del input */
+  border-radius: 3px; /* Bordes redondeados */
+}
+.button_enviar {
+  width: 100%; /* Ancho completo */
+  padding: 10px; /* Espacio dentro del botón */
+  background-color: #f2317f; /* Color de fondo */
+  color: black; /* Color del texto */
+  border: none; /* Quitar borde */
+  border-radius: 3px; /* Bordes redondeados */
+  cursor: pointer; /* Cambiar cursor al pasar por encima */
+}
+
+#texto_cambiado {
+  display: block; /* Convertir la etiqueta en un elemento de bloque */
+  margin-top: 15px; /* Espacio entre el botón y el texto */
+  color: red;
+}
+
+.formulario_usuref {
+  width: 400px; /* Ancho del cuadro */
+  padding: 20px; /* Espacio alrededor del contenido del cuadro */
+  border: 1px solid #ccc; /* Borde del cuadro */
+  border-radius: 5px; /* Bordes redondeados */
+  margin: 0 auto; /* Centrar horizontalmente */
+  background-color: #042d63ca; /* Fondo del formulario */
+}
+
